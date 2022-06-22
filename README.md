@@ -6,3 +6,11 @@ we have to   analyzing a set of 6 csv files pertaining to employee background in
 
 
 ### Resources:
+Data Sources: titles.csv, salaries.csv, employees.csv, dept_manager.csv, dept_emp.csv, departments.csv
+
+PostgreSQL 12.5, quickdatabasediagrams.com, PgAdmin 4.20
+
+#### Results:
+
+Relational Database 
+
