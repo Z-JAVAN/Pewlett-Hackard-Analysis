@@ -22,8 +22,8 @@ PostgreSQL 12.5, quickdatabasediagrams.com, PgAdmin 4.20
 #### Job in future 
 
 After the analysis, it was found that there are currently a large number of employees of retirement age.<br/>
-1- A total of 90,398 will be retiring .
-2- The majority of employees that will be retiring are in Senior positions.<>br/
+1- A total of 90,398 will be retiring .<br/>
+2- The majority of employees that will be retiring are in Senior positions.<br/>
 3- 1,549 employees set to retire are eligible for the mentorship program.
 
 #### summery 
