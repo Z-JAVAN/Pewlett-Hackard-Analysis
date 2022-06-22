@@ -19,7 +19,7 @@ PostgreSQL 12.5, quickdatabasediagrams.com, PgAdmin 4.20
 ![pic2.png](/Queries/pic2.png)
 
 
-#### Job in future 
+#### Future job position : 
 
 After the analysis, it was found that there are currently a large number of employees of retirement age.<br/>
 1- A total of 90,398 will be retiring .<br/>
