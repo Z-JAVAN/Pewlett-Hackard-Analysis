@@ -14,4 +14,4 @@ PostgreSQL 12.5, quickdatabasediagrams.com, PgAdmin 4.20
 
 ## Relational Database 
 
-![1.1 .jpg](Queries/1.1 .jpg)<br/> <br/>
+![photo01.png](/resources/photo01.png)<br/> <br/>
