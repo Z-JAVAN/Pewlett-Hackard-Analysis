@@ -30,3 +30,7 @@ After the analysis, it was found that there are currently a large number of empl
 
 There are 90,398 roles that will need to be filled across 7 different categories in the organization.we can see that in the begins to make an impact, we made filled across 7 different categories in the organization.Also,we have 2 manager position .
 
+
+![8count.png](/Queries/8count.png)
+
+
