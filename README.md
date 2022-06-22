@@ -15,3 +15,10 @@ PostgreSQL 12.5, quickdatabasediagrams.com, PgAdmin 4.20
 ## Relational Database 
 
 ![pic14 .png](/Queries/pic14 .png)<br/> <br/>
+
+
+#### Job in future 
+
+After the analysis, it was found that there are currently a large number of employees of retirement age.
+#### summery 
+we can see that in the begins to make an impact, we made filled across 7 different categories in the organization. 
