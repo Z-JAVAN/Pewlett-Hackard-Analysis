@@ -16,7 +16,7 @@ PostgreSQL 12.5, quickdatabasediagrams.com, PgAdmin 4.20
 ## Relational Database 
 
 
-![picture 14 .png](/Queries/picture 14 .png)
+![picture1.png](/Queries/picture1.png)
 
 
 #### Job in future 
