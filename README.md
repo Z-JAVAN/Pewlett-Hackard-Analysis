@@ -33,7 +33,7 @@ There are 90,398 roles that will need to be filled across 7 different categories
 
 ![8count.png](/Queries/8count.png)
 
-after analysis we can see we have  1,549 employees available for the mentorship program.
+after analysis we can see we have  1,549 employees available for the mentorship program.<br/>
 ![7.png](/Queries/7.png)
 
 
