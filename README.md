@@ -31,12 +31,14 @@ After the analysis, it was found that there are currently a large number of empl
 There are 90,398 roles that will need to be filled across 7 different categories in the organization.we can see that in the begins to make an impact, we made filled across 7 different categories in the organization.Also,we have 2 manager position .
 
 
+
+
 ![8count.png](/Queries/8count.png)
 
 after analysis we can see we have  1,549 employees available for the mentorship program.<br/>
 ![7.png](/Queries/7.png)
 
-
-
+We extend the coaching qualification for one year for employees born in 1964. So if some of them decide to go to PH, we will hire new people.<br/>
+![9.png](/Queries/9.png)
 
 
